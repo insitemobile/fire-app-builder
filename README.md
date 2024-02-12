@@ -40,7 +40,7 @@ Fire App Builder provides a Java-based framework that you can use to easily and 
 
 Change the appearance.
 
-* Change app loco, icon, font
+* Change app logo, icon, font
 * Change different screens (splash, home)
 * Change homepage layout, sidebar
 
